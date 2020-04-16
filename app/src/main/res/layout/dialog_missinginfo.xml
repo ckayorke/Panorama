@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:padding="10dp"
+	android:gravity="left"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+	<TextView
+		android:id="@+id/error_Address1"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textAppearance="?android:attr/textAppearanceMedium"/>
+	<TextView
+		android:id="@+id/error_City1"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textAppearance="?android:attr/textAppearanceMedium"/>
+	<LinearLayout
+		android:orientation="horizontal"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content">
+		<TextView
+			android:id="@+id/error_BK"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="Req. Rooms: "
+			android:textStyle="bold"
+			android:textAppearance="?android:attr/textAppearanceMedium"/>
+		<TextView
+			android:id="@+id/error_BK1"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:textAppearance="?android:attr/textAppearanceMedium"/>
+	</LinearLayout>
+	<LinearLayout
+		android:orientation="horizontal"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content">
+		<TextView
+			android:id="@+id/error_Levels1"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="Empty Floors: "
+			android:textStyle="bold"
+			android:textAppearance="?android:attr/textAppearanceMedium"/>
+		<TextView
+			android:id="@+id/error_Levels"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:textAppearance="?android:attr/textAppearanceMedium"/>
+	</LinearLayout>
+	<LinearLayout
+		android:orientation="horizontal"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content">
+		<TextView
+			android:id="@+id/error_Pictures"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="No Pics: "
+			android:textStyle="bold"
+			android:textAppearance="?android:attr/textAppearanceMedium"/>
+		<TextView
+			android:id="@+id/error_Pictures1"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:textAppearance="?android:attr/textAppearanceMedium"/>
+	</LinearLayout>
+	<LinearLayout
+		android:orientation="horizontal"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content">
+		<TextView
+			android:id="@+id/error_Measure"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="No Measure: "
+			android:textStyle="bold"
+			android:textAppearance="?android:attr/textAppearanceMedium"/>
+		<TextView
+			android:id="@+id/error_Measure1"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:textAppearance="?android:attr/textAppearanceMedium"/>
+	</LinearLayout>
+
+	<LinearLayout
+		android:orientation="horizontal"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content">
+		<TextView
+			android:id="@+id/error_OutPics"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="Missing Outside Pics: "
+			android:textStyle="bold"
+			android:textAppearance="?android:attr/textAppearanceMedium"/>
+		<TextView
+			android:id="@+id/error_OutPics1"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:textAppearance="?android:attr/textAppearanceMedium"/>
+	</LinearLayout>
+
+	<LinearLayout
+		android:orientation="horizontal"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content">
+		<TextView
+			android:id="@+id/error_Out3DPics"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="Missing Outside 3D Pics: "
+			android:textStyle="bold"
+			android:textAppearance="?android:attr/textAppearanceMedium"/>
+		<TextView
+			android:id="@+id/error_Out3DPics1"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:textAppearance="?android:attr/textAppearanceMedium"/>
+	</LinearLayout>
+
+
+	<LinearLayout
+		android:orientation="horizontal"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content">
+		<TextView
+			android:id="@+id/error_Check"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="Missing Upload Checked?:  "
+			android:textStyle="bold"
+			android:textAppearance="?android:attr/textAppearanceMedium"/>
+		<TextView
+			android:id="@+id/error_Check1"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:textAppearance="?android:attr/textAppearanceMedium"/>
+	</LinearLayout>
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text=""
+		android:textAppearance="?android:attr/textAppearanceMedium"/>
+	<Button
+		android:id="@+id/btndialog1"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="10dp"
+		android:background="@drawable/button_selector"
+		android:text="OK"
+		android:textColor="@color/white"
+		android:textSize="17dp" />
+</LinearLayout>

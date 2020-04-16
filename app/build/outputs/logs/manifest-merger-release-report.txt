@@ -1,0 +1,418 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:145:9-153:20
+	android:grantUriPermissions
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:149:13-47
+	android:authorities
+		INJECTED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:147:13-60
+	android:exported
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:148:13-37
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:146:13-67
+manifest
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:2:1-156:12
+INJECTED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:2:1-156:12
+INJECTED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:2:1-156:12
+INJECTED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:2:1-156:12
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\baa01a691761980063426c1af5591664\AndroidManifest.xml:17:1-32:12
+MERGED from [com.nbsp:library:1.09] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\9c78bec6f67c729daedab3fa279e1618\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\6becd3f1171a6126dab5f2d842c5c115\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\656fdbab5a45b8a9e95503e55917035c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\1704d1f4238483b1140f92f6873d5594\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\09f5f4734dcc8b13f083836f56c0afd2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\19518af34ef8d7ae7b05e17db42d7fca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\771fea88f075f71f6d42eedc5bfa5f66\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\3057c0966253c38947d176d7d537535d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\cfb99e5483536375272842866b6d6c34\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\922567cb02a73a6213e0d428954a45ca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\6f80e0387dc96cf642cda8ce3da0bac5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\db20cad843b58c37bdfdf2ac4f8b7e6f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\f33b848dcd1d8c6540e7674939f137df\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\972459cb9a8edc6c3a11983f41290a0d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\fd74b8317bf46ce400c64c3038854897\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\ce05e69ff5b79c58b053a3ee27a51f30\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\6c65f8abdac02ebcb28bcc4d43c3d664\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\380db7093dfc8ab731db48cede26cbb0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\326067dc2cdfb1c9b3adca1b4156e445\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\58acff1cb9c94a0ff4aaf5634dfb7556\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\4c7e1dc9e72c40bc8495c768b5953e94\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\cbe3066e7436801d556faaf9c0024612\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\f6a0cc8fde3b1dbde862e0ff01df98df\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\044d367fcb252f1a1ad3fd6a5799931c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\0b6ead72b705d240fe3a39f58d1b62b6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\20e7f615602fc41777d84891ab08cdc1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\7c2e4cdc0d2bc0afd82fa520abde56d3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\186dcafb6b8282201e9a62c7e648a6b6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\f84c8acfbe4ee4f26057ee0fcaf85184\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\f258612b4299519cdf508b8394f6b5cc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\b664aaa6eff05fcb2e3d50dc187f946d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\de953397f75067707b9bc74caaafc8b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\00de4345c2e78a7f417a3a41987b50c2\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:2:1-156:12
+INJECTED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:2:1-156:12
+INJECTED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:2:1-156:12
+	package
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:2:1-156:12
+		INJECTED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:2:1-156:12
+		INJECTED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:4:5-68
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:4:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:5:5-74
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:5:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:7:22-76
+uses-feature#android.hardware.bluetooth
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:9:5-63
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:9:19-60
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:11:5-80
+MERGED from [com.nbsp:library:1.09] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\9c78bec6f67c729daedab3fa279e1618\AndroidManifest.xml:11:5-80
+MERGED from [com.nbsp:library:1.09] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\9c78bec6f67c729daedab3fa279e1618\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:13:22-62
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:16:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:17:22-73
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:18:5-71
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:18:22-68
+uses-feature#android.hardware.camera
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:20:5-60
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:20:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:21:5-70
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:21:19-67
+uses-feature#0x00020000
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:22:5-24:35
+	android:glEsVersion
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:23:9-41
+	android:required
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:24:9-32
+application
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:26:5-154:19
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\baa01a691761980063426c1af5591664\AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\baa01a691761980063426c1af5591664\AndroidManifest.xml:26:5-30:19
+MERGED from [com.nbsp:library:1.09] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\9c78bec6f67c729daedab3fa279e1618\AndroidManifest.xml:13:5-20:19
+MERGED from [com.nbsp:library:1.09] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\9c78bec6f67c729daedab3fa279e1618\AndroidManifest.xml:13:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\1704d1f4238483b1140f92f6873d5594\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\1704d1f4238483b1140f92f6873d5594\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\cbe3066e7436801d556faaf9c0024612\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\cbe3066e7436801d556faaf9c0024612\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\f6a0cc8fde3b1dbde862e0ff01df98df\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\f6a0cc8fde3b1dbde862e0ff01df98df\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\cbe3066e7436801d556faaf9c0024612\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from [com.nbsp:library:1.09] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\9c78bec6f67c729daedab3fa279e1618\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:31:9-35
+	android:hardwareAccelerated
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:28:9-44
+	android:largeHeap
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:32:9-33
+	android:icon
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:30:9-44
+	android:allowBackup
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:27:9-35
+	android:theme
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:33:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:29:9-44
+activity#com.bosch.glm100c.easy_connect.ProjectCommandsActivity
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:34:9-36:61
+	android:screenOrientation
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:36:13-49
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:35:13-52
+activity#com.bosch.glm100c.easy_connect.NeedInfoActivity
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:37:9-41:52
+	android:screenOrientation
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:41:13-49
+	android:label
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:39:13-47
+	android:noHistory
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:38:13-45
+activity#com.bosch.glm100c.easy_connect.DecisionActivity
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:42:9-45:52
+	android:screenOrientation
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:45:13-49
+	android:noHistory
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:43:13-45
+activity#com.bosch.glm100c.easy_connect.AuthenticateActivity
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:46:9-49:52
+	android:screenOrientation
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:49:13-49
+	android:noHistory
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:48:13-37
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:47:13-49
+activity#com.bosch.glm100c.easy_connect.LevelActivity
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:50:9-53:52
+	android:screenOrientation
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:53:13-49
+	android:noHistory
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:52:13-37
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:51:13-42
+activity#com.bosch.glm100c.easy_connect.PermissionActivity
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:54:9-57:52
+	android:screenOrientation
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:57:13-49
+	android:noHistory
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:56:13-37
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:55:13-47
+activity#com.bosch.glm100c.easy_connect.InternetActivity
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:58:9-61:52
+	android:screenOrientation
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:61:13-49
+	android:noHistory
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:60:13-37
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:59:13-45
+activity#com.bosch.glm100c.easy_connect.WifiActivity
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:62:9-71:20
+	android:screenOrientation
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:65:13-49
+	android:noHistory
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:64:13-37
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:63:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:66:13-70:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:67:17-69
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:67:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:69:17-76
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:69:27-73
+activity#com.bosch.glm100c.easy_connect.ImageListActivity
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:72:9-82:20
+	android:screenOrientation
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:76:13-49
+	android:label
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:74:13-51
+	android:noHistory
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:75:13-37
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:73:13-46
+activity#com.bosch.glm100c.easy_connect.GLPhotoActivity
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:83:9-93:20
+	android:screenOrientation
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:87:13-49
+	android:label
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:85:13-41
+	android:noHistory
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:86:13-37
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:84:13-44
+activity#com.bosch.glm100c.easy_connect.DatabaseActivity
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:94:9-97:52
+	android:screenOrientation
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:97:13-49
+	android:noHistory
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:96:13-37
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:95:13-45
+activity#com.bosch.glm100c.easy_connect.OpenProjectActivity
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:98:9-108:20
+	android:screenOrientation
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:102:13-49
+	android:label
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:100:13-42
+	android:noHistory
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:101:13-37
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:99:13-48
+activity#com.bosch.glm100c.easy_connect.Login
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:109:9-119:20
+	android:screenOrientation
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:113:13-49
+	android:label
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:111:13-34
+	android:noHistory
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:112:13-37
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:110:13-34
+activity#com.bosch.glm100c.easy_connect.Splashscreen
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:120:9-130:20
+	android:screenOrientation
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:124:13-49
+	android:label
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:122:13-39
+	android:noHistory
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:123:13-37
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:121:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:125:13-129:29
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:128:17-77
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:128:27-74
+activity#com.bosch.glm100c.easy_connect.MainActivity
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:131:9-141:20
+	android:screenOrientation
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:135:13-49
+	android:label
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:133:13-42
+	android:noHistory
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:134:13-37
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:132:13-41
+service#com.bosch.glm100c.easy_connect.bluetooth.BLEService
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:143:9-57
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:143:18-54
+uses-sdk
+INJECTED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\baa01a691761980063426c1af5591664\AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\baa01a691761980063426c1af5591664\AndroidManifest.xml:22:5-24:41
+MERGED from [com.nbsp:library:1.09] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\9c78bec6f67c729daedab3fa279e1618\AndroidManifest.xml:7:5-9:41
+MERGED from [com.nbsp:library:1.09] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\9c78bec6f67c729daedab3fa279e1618\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\6becd3f1171a6126dab5f2d842c5c115\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\6becd3f1171a6126dab5f2d842c5c115\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\656fdbab5a45b8a9e95503e55917035c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\656fdbab5a45b8a9e95503e55917035c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\1704d1f4238483b1140f92f6873d5594\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\1704d1f4238483b1140f92f6873d5594\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\09f5f4734dcc8b13f083836f56c0afd2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\09f5f4734dcc8b13f083836f56c0afd2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\19518af34ef8d7ae7b05e17db42d7fca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\19518af34ef8d7ae7b05e17db42d7fca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\771fea88f075f71f6d42eedc5bfa5f66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\771fea88f075f71f6d42eedc5bfa5f66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\3057c0966253c38947d176d7d537535d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\3057c0966253c38947d176d7d537535d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\cfb99e5483536375272842866b6d6c34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\cfb99e5483536375272842866b6d6c34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\922567cb02a73a6213e0d428954a45ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\922567cb02a73a6213e0d428954a45ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\6f80e0387dc96cf642cda8ce3da0bac5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\6f80e0387dc96cf642cda8ce3da0bac5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\db20cad843b58c37bdfdf2ac4f8b7e6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\db20cad843b58c37bdfdf2ac4f8b7e6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\f33b848dcd1d8c6540e7674939f137df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\f33b848dcd1d8c6540e7674939f137df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\972459cb9a8edc6c3a11983f41290a0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\972459cb9a8edc6c3a11983f41290a0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\fd74b8317bf46ce400c64c3038854897\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\fd74b8317bf46ce400c64c3038854897\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\ce05e69ff5b79c58b053a3ee27a51f30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\ce05e69ff5b79c58b053a3ee27a51f30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\6c65f8abdac02ebcb28bcc4d43c3d664\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\6c65f8abdac02ebcb28bcc4d43c3d664\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\380db7093dfc8ab731db48cede26cbb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\380db7093dfc8ab731db48cede26cbb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\326067dc2cdfb1c9b3adca1b4156e445\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\326067dc2cdfb1c9b3adca1b4156e445\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\58acff1cb9c94a0ff4aaf5634dfb7556\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\58acff1cb9c94a0ff4aaf5634dfb7556\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\4c7e1dc9e72c40bc8495c768b5953e94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\4c7e1dc9e72c40bc8495c768b5953e94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\cbe3066e7436801d556faaf9c0024612\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\cbe3066e7436801d556faaf9c0024612\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\f6a0cc8fde3b1dbde862e0ff01df98df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\f6a0cc8fde3b1dbde862e0ff01df98df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\044d367fcb252f1a1ad3fd6a5799931c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\044d367fcb252f1a1ad3fd6a5799931c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\0b6ead72b705d240fe3a39f58d1b62b6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\0b6ead72b705d240fe3a39f58d1b62b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\20e7f615602fc41777d84891ab08cdc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\20e7f615602fc41777d84891ab08cdc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\7c2e4cdc0d2bc0afd82fa520abde56d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\7c2e4cdc0d2bc0afd82fa520abde56d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\186dcafb6b8282201e9a62c7e648a6b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\186dcafb6b8282201e9a62c7e648a6b6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\f84c8acfbe4ee4f26057ee0fcaf85184\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\f84c8acfbe4ee4f26057ee0fcaf85184\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\f258612b4299519cdf508b8394f6b5cc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\f258612b4299519cdf508b8394f6b5cc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\b664aaa6eff05fcb2e3d50dc187f946d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\b664aaa6eff05fcb2e3d50dc187f946d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\de953397f75067707b9bc74caaafc8b5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\de953397f75067707b9bc74caaafc8b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\00de4345c2e78a7f417a3a41987b50c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\00de4345c2e78a7f417a3a41987b50c2\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:150:13-152:54
+	android:resource
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:152:17-51
+	android:name
+		ADDED from C:\Users\ckayo\AndroidStudioProjects\Panorama\app\src\main\AndroidManifest.xml:151:17-67
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:5.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\baa01a691761980063426c1af5591664\AndroidManifest.xml:27:9-29:72
+	android:theme
+		ADDED from [com.karumi:dexter:5.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\baa01a691761980063426c1af5591664\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.karumi:dexter:5.0.0] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\baa01a691761980063426c1af5591664\AndroidManifest.xml:28:13-60
+activity#com.nbsp.materialfilepicker.ui.FilePickerActivity
+ADDED from [com.nbsp:library:1.09] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\9c78bec6f67c729daedab3fa279e1618\AndroidManifest.xml:16:9-19:20
+	android:theme
+		ADDED from [com.nbsp:library:1.09] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\9c78bec6f67c729daedab3fa279e1618\AndroidManifest.xml:18:13-49
+	android:name
+		ADDED from [com.nbsp:library:1.09] C:\Users\ckayo\.gradle\caches\transforms-2\files-2.1\9c78bec6f67c729daedab3fa279e1618\AndroidManifest.xml:17:13-77

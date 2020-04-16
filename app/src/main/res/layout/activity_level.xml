@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center">
+    <Button
+        android:id="@+id/floorNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_selector"
+        android:text="Floor: "
+        android:textColor="@color/white"
+        android:textSize="17dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="16dip"
+        android:text="Press &amp; Hold Cell To Begin, Drag Room Labels To Reposition"
+        android:textColor="@color/primaryDark"/>
+    <com.bosch.glm100c.easy_connect.view.CustomView
+        android:id="@+id/customView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        app:square_color="@color/squareColor"
+        app:square_size="@dimen/square_size" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <TextView
+            android:id="@+id/hasPictures"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Has Pics"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:textColor="@color/layoutMagenta"/>
+        <TextView
+            android:id="@+id/hasMeasure"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Has Measuresments"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:layout_marginLeft="30dp"
+            android:textColor="@color/colorAccent"/>
+        <TextView
+            android:id="@+id/hasBoth"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:text="Has Both"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:textColor="@color/black"/>
+    </LinearLayout>
+    <Button
+        android:id="@+id/AddingRooms"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        android:background="@drawable/button_selector"
+        android:text="Save"
+        android:textColor="@color/white"
+        android:textSize="17dp" />
+
+    <Button
+        android:id="@+id/doneToProjectCommands"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/button_selector"
+        android:text="Done With Level"
+        android:textColor="@color/white"
+        android:textSize="17dp" />
+
+    <Button
+        android:id="@+id/GoToProjectCommands"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/button_selector"
+        android:text="Back"
+        android:textColor="@color/white"
+        android:textSize="17dp" />
+</LinearLayout>

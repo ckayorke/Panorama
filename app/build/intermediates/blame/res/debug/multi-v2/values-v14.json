@@ -1,0 +1,64 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\ckayo\\AndroidStudioProjects\\Panorama\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ckayo\\AndroidStudioProjects\\Panorama\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "225",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "373"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "821",
+                        "endLines": "21",
+                        "endColumns": "12",
+                        "endOffsets": "967"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ckayo\\AndroidStudioProjects\\Panorama\\app\\src\\main\\res\\values-v14\\colors.xml",
+                    "from": {
+                        "startLines": "11,12,7,4,2,3,13,18,17,19,15,14,9,10,20,16,6",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "380,422,247,157,57,105,468,702,653,748,559,512,290,333,797,604,206",
+                        "endColumns": "40,44,39,45,46,50,42,44,47,47,43,45,41,45,45,47,39",
+                        "endOffsets": "416,462,282,198,99,151,506,742,696,791,598,553,327,374,838,647,241"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,96,141,181,227,274,325,368,413,461,509,553,599,641,687,733,781",
+                        "endColumns": "40,44,39,45,46,50,42,44,47,47,43,45,41,45,45,47,39",
+                        "endOffsets": "91,136,176,222,269,320,363,408,456,504,548,594,636,682,728,776,816"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ckayo\\AndroidStudioProjects\\Panorama\\app\\src\\main\\res\\values-v14\\attrs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "5",
+                        "endColumns": "24",
+                        "endOffsets": "229"
+                    },
+                    "to": {
+                        "startLines": "22",
+                        "startColumns": "4",
+                        "startOffsets": "972",
+                        "endLines": "25",
+                        "endColumns": "24",
+                        "endOffsets": "1139"
+                    }
+                }
+            ]
+        }
+    ]
+}

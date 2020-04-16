@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="bosch-mtprotocol" basedir="." default="jar">
+
+    <property name="src.dir" value="src" />
+    <property name="build.dir" value="build" />
+    <property name="classes.dir" value="${build.dir}/classes" />
+    <property name="jar.dir" value="${build.dir}/jar" />
+    <property name="absolute.path" location="${build.dir}" />
+
+    <target name="clean">
+        <echo>Delete ${build.dir}</echo>
+        <delete dir="${build.dir}" />
+    </target>
+
+    <target name="init" depends="clean">
+        <echo>Create ${build.dir}</echo>
+        <mkdir dir="${build.dir}" />
+        <mkdir dir="${classes.dir}" />
+        <mkdir dir="${jar.dir}" />
+    </target>
+
+    <target name="compile" depends="init">
+        <echo>Compiling...</echo>
+        <javac destdir="${classes.dir}" includeantruntime="false" srcdir="${src.dir}">
+            <classpath>
+                <pathelement path="." />
+            </classpath>
+        </javac>
+    </target>
+
+    <target name="jar" depends="compile">
+        <jar basedir="${classes.dir}" destfile="${jar.dir}/bosch-mtprotocol.jar" />
+        <echo>Written to ${absolute.path}</echo>
+    </target>
+
+</project>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical">
+<ListView
+    android:id="@+id/ProjectView"
+    android:layout_height="0dip"
+    android:layout_width="match_parent"
+    android:layout_weight="1"
+    android:padding="16dp"/>
+<TextView
+    android:id="@+id/labelCount"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:textSize="16dip"
+    android:text="No New Project Found"
+    android:textColor="@android:color/holo_blue_dark">
+</TextView>
+<TextView
+    android:id="@+id/missingData"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textStyle="bold"
+    android:text="Redbox Means Project Is Missing Information"
+    android:textSize="18dp"
+    android:layout_gravity="center"
+    android:textColor="#d50707"/>
+
+    <TextView
+        android:id="@+id/completeData"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Greenbox Means Project Is Completed"
+        android:textSize="18dp"
+        android:layout_gravity="center"
+        android:textColor="#4CAF50"/>
+<Button
+    android:id="@+id/GoToLogin"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:background="@drawable/button_selector"
+    android:text="Upload/Download Projects"
+    android:textColor="@color/white"
+    android:textSize="17dp" />
+<Button
+    android:id="@+id/GoToDecision6"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="20dp"
+    android:background="@drawable/button_selector"
+    android:text="Back"
+    android:textColor="@color/white"
+    android:textSize="17dp" />
+</LinearLayout>

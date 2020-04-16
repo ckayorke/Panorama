@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#3BCADB</color>
+    <color name="accentDark">#3ea4b4</color>
+    <color name="black">#000000</color>
+    <color name="colorAccent">#FF0000</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="darkGray">#373B49</color>
+    <color name="layoutCyan">#00FFFF</color>
+    <color name="layoutGreen">#ff22f033</color>
+    <color name="layoutMagenta">#FF00FF</color>
+    <color name="lightGray">#CCCCCC</color>
+    <color name="normal_text">#373B49</color>
+    <color name="primary">#112d5d</color>
+    <color name="primaryDark">#186089</color>
+    <color name="squareColor">#3F51B5</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style>
+    <declare-styleable name="CustomView">
+        <attr format="color" name="square_color"/>
+        <attr format="dimension" name="square_size"/>
+    </declare-styleable>
+</resources>
